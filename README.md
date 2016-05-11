@@ -1,10 +1,10 @@
 # Interpreting the pathogenicity of coding variants using the ExAC database
 
-#### Fundamentals of Clinical Genetics 
+#### Masters in Genomic Medicine, Module 3
 
-Wellcome Trust Genome Campus, January 2016
+Wellcome Genome Campus, May 2016
 
-[Tarjinder Singh](mailto:ts14@sanger.ac.uk), Jeffrey C. Barrett
+[Tarjinder Singh](mailto:ts14@sanger.ac.uk)
 
 ## Session description
 
@@ -204,4 +204,14 @@ Answer the following questions:
 - [ExAC manuscript preprint](http://biorxiv.org/content/early/2015/10/30/030338)
 
 - [Short blog post on how to use ExAC](http://wp.sanger.ac.uk/barrettgroup/2015/03/20/exac-its-big-and-easy-to-use/)
+
+## GTEx - a rich transcriptomic resource
+
+- once we have a gene of interest, we can query the GTEx database to find its expression pattern in human tissues
+
+- in the [V6 release](http://www.gtexportal.org/home/tissueSummaryPage), this resource has gene expression data on 53 tissues in 449 donors
+
+- To use, go to [GTeX portal](http://www.gtexportal.org/home/) and scroll to **Transcriptome** and enter your gene of interest
+
+
 
