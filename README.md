@@ -209,9 +209,41 @@ Answer the following questions:
 
 - once we have a gene of interest, we can query the GTEx database to find its expression pattern in human tissues
 
+- this includes transcript-level data as well!
+
 - in the [V6 release](http://www.gtexportal.org/home/tissueSummaryPage), this resource has gene expression data on 53 tissues in 449 donors
 
 - To use, go to [GTeX portal](http://www.gtexportal.org/home/) and scroll to **Transcriptome** and enter your gene of interest
+
+![gtex_portal](figures/gtex_portal.png "gtex_portal")
+
+#### Quick examples
+
+- look at the RPKM (reads per kilobase per million) as approximations of the abundance of a particular transcript
+
+- [HBA1](http://www.gtexportal.org/home/gene/HBA1) - hemoglobin A1
+    
+    - obviously a whole blood-specific expression pattern!
+
+    - see four transcripts, one of which is expressed at a much greater level
+
+![hba1_expression](figures/hba1_expression.png "hba1_expression")
+
+- [NRXN1](http://www.gtexportal.org/home/gene/NRXN1) - Neurexin 1
+
+    - confers risk for both schizophrenia and autism
+
+    - most highly expressed in the brain
+
+    - many more transcripts than HBA1, but still one major transcript that is expressed in brain
+
+![nrxn1_expression](figures/nrxn1_expression.png "nrxn1_expression")
+
+## More information
+
+- [GTEx background](https://www.genome.gov/27543767/genotypetissue-expression-project-gtex/)
+
+- [GTEx paper](http://science.sciencemag.org/content/348/6235/648)
 
 
 
